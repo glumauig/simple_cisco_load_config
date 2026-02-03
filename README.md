@@ -1,2 +1,5 @@
 # simple_cisco_load_config
-This python script that loads command to cisco devices from
+This is a python script that loads command to cisco devices.
+>> The program ask for username and password
+>> It also ask for the file name of the commands located ~/load_config_folder/
+>> It also ask for the file name of the list of the devices located ~/load_config_folder/
